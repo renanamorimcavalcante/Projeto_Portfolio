@@ -14,5 +14,5 @@ Correção no Footer, na lista de rede sociais, linkedin fora do padrão.
 Entre em contato comigo pelos canais abaixo:
 
 E-mail: renan.acavalcante@gmail.com
-Telefone: +55 98 991466684
+Telefone: +55 98 984050334
 Discord: 
